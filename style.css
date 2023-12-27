@@ -30,8 +30,32 @@ body {
     margin-top: 30px;
 }
 
-.navbar-tact .abt, .ser, .pro, .con {
+.navbar-tact .abt, .ser, .pro{
     margin-left: 50px;
+    font-family: Barlow;
+    font-weight: 600;
+}
+
+.con{
+    width: 100px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: white;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.con:hover{
+    background-color: rgb(5, 193, 255);
+    color: white;
+    cursor: pointer;
+}
+
+.con p{
+    color: white;
+    text-align:center;
+    font-family: Fraunces;
+    font-weight: 900;
 }
 
 .creative {
@@ -70,6 +94,10 @@ body {
     color: hsl(212, 27%, 19%);
 }
 
+.egg-left h5:hover{
+    cursor: pointer;
+}
+
 .egg-left hr {
     margin: 0;
     width: 17%;
@@ -77,6 +105,12 @@ body {
     margin-top: -27px;
     background-color: hsl(51, 100%, 49%);
 }
+
+hr:hover{
+    cursor: pointer;
+}
+
+
 
 .egg-right {
     width: 50%;
@@ -115,6 +149,10 @@ body {
     font-family: Fraunces;
     font-weight: 900;
     color: hsl(212, 27%, 19%);
+}
+
+.cup-right h5:hover{
+    cursor: pointer;
 }
 
 .cup-right hr {
@@ -245,6 +283,7 @@ body {
 .footer{
     background-color: hsl(167, 68%, 59%);
     margin-top: -20px;
+    height: 300px;
 }
 
 .footer-nav h2{
@@ -266,12 +305,22 @@ body {
     color: hsl(167, 40%, 24%);
 }
 
+.footer-abt p:hover{
+    color: white;
+    cursor: pointer;
+}
+
 .footer-icons{
     margin-left: 570px;
     margin-top: 70px;
+    margin-bottom: 50px;
 }
 
 .footer-icons img{
     margin-left: 30px;
 }
 
+.footer-icons img:hover{
+    color: white;
+    cursor: pointer;
+}
