@@ -232,3 +232,46 @@ body {
     font-weight: 600;
     color: hsl(210, 4%, 67%);
 }
+
+.display-us{
+    display: flex;
+    flex-direction: row;
+}
+
+.display-us img{
+    width: 25%;
+}
+
+.footer{
+    background-color: hsl(167, 68%, 59%);
+    margin-top: -20px;
+}
+
+.footer-nav h2{
+    text-align: center;
+    font-family: Fraunces;
+    font-weight: 900;
+    color: hsl(168, 93%, 18%);  
+}
+
+.footer-abt{
+    display: flex;
+    flex-direction: row;
+    margin-left: 580px;
+}
+
+.footer-abt p{
+    font-family: Barlow;
+    font-weight: 600;
+    color: hsl(167, 40%, 24%);
+}
+
+.footer-icons{
+    margin-left: 570px;
+    margin-top: 70px;
+}
+
+.footer-icons img{
+    margin-left: 30px;
+}
+
