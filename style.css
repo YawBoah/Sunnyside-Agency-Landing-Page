@@ -6,7 +6,7 @@
   --fraunces-font: "Fraunces", serif;
   --soft-red: hsl(7, 99%, 70%);
   --yellow: hsl(51, 100%, 49%);
-  
+
   /*graphic design text*/
   --dark-desaturated-cyan: hsl(167, 40%, 24%);
 
@@ -444,9 +444,6 @@ footer .logo {
   margin-top: 2.3rem;
 }
 
-.social-media img {
-  filter: invert(34%) sepia(6%) saturate(3757%) hue-rotate(118deg) brightness(106%) contrast(81%);
-}
 
 /* Hover */
 
