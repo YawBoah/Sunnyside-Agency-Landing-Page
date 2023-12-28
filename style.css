@@ -331,16 +331,19 @@ h1 {
   font-family: var(--fraunces-font);
   color: var(--grayish-blue);
   text-transform: uppercase;
-  letter-spacing: 5px;
+  letter-spacing: 4px;
 }
+
 .profiles,
 .profile {
   display: flex;
   flex-direction: column;
 }
+
 .profiles {
   gap: 2rem;
 }
+
 .profile {
   gap: 3.1rem;
 }
@@ -355,9 +358,10 @@ h1 {
 
 .feedback {
   font-family: var(--barlow-font);
-  color: var(--dark-grayish-blue);
+  color: var(--very-dark-desaturated-blue);
   line-height: 1.8rem;
   font-weight: 600;
+  padding: 10px;
 }
 
 .author-block {
@@ -368,16 +372,19 @@ h1 {
   text-align: center;
   align-items: center;
 }
+
 .profile-author {
   font-family: var(--fraunces-font);
   font-size: 1rem;
   font-weight: 900;
 }
+
 .author-job {
   font-family: var(--barlow-font);
   font-size: 0.8rem;
   color: var(--grayish-blue);
 }
+
 /* Image Grid */
 .image-grid {
   display: grid;
@@ -385,6 +392,7 @@ h1 {
   height: 50rem;
   width: 100%;
 }
+
 .milk {
   background-image: url("images/mobile/image-gallery-milkbottles.jpg");
 }
@@ -423,9 +431,11 @@ footer {
   text-align: center;
   align-items: center;
 }
+
 footer .logo {
   filter: invert(45%) sepia(22%) saturate(790%) hue-rotate(118deg) brightness(95%) contrast(92%);
 }
+
 .footer-menu {
   display: flex;
   flex-direction: row;
