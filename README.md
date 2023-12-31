@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/28714a57-821c-4394-af53-6528a21a8dd6/deploy-status)](https://app.netlify.com/sites/sunny-icecream/deploys)
+
 # Frontend Mentor - Sunnyside Agency Landing Page solution🌞✨
 
 This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects
