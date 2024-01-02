@@ -34,5 +34,4 @@ Ready to embark on a creative journey with Sunnyside? Clone this repository, exp
 
 Feel free to reach out if you have any questions or just want to chat about design and creativity. Happy coding! 🌈🚀✨
 
-
 **Sunnyside - Where Creativity Meets Innovation!** 🌞💻✨
