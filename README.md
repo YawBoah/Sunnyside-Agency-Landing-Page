@@ -1,4 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/28714a57-821c-4394-af53-6528a21a8dd6/deploy-status)](https://app.netlify.com/sites/sunny-icecream/deploys)
+![GitHub repo size](https://img.shields.io/github/repo-size/YawBoah/Sunnyside-Agency-Landing-Page)
+![GitHub issues](https://img.shields.io/github/issues/YawBoah/Sunnyside-Agency-Landing-Page)
+![GitHub stars](https://img.shields.io/github/stars/YawBoah/Sunnyside-Agency-Landing-Page)
 
 # Frontend Mentor - Sunnyside Agency Landing Page solution🌞✨
 
