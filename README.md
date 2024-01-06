@@ -3,8 +3,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/YawBoah/Sunnyside-Agency-Landing-Page)
 ![GitHub stars](https://img.shields.io/github/stars/YawBoah/Sunnyside-Agency-Landing-Page)
 
-# Frontend Mentor - Sunnyside Agency Landing Page solution🌞✨
-
 This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects
 
 Welcome to the Sunnyside Agency Landing Page, a vibrant and visually stunning showcase of creativity! 🚀
